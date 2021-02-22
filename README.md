@@ -1024,7 +1024,7 @@ plt.legend()
 
 
     
-![png](output_10_1.png)
+![png](img/output_10_1.png)
     
 
 
@@ -1046,7 +1046,7 @@ plt.legend()
 
 
     
-![png](output_11_1.png)
+![png](img/output_11_1.png)
     
 
 
@@ -1068,7 +1068,7 @@ plt.legend()
 
 
     
-![png](output_12_1.png)
+![png](img/output_12_1.png)
     
 
 
@@ -1098,7 +1098,7 @@ plt.legend()
 
 
     
-![png](output_13_2.png)
+![png](img/output_13_2.png)
     
 
 
@@ -2466,6 +2466,6 @@ sns.heatmap(confusion_matrix, annot=True)
 
 
     
-![png](output_29_1.png)
+![png](img/output_29_1.png)
     
 
